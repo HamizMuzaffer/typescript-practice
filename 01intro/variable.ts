@@ -1,5 +1,5 @@
 let greetings: string = "Hello World";
-console.log(greetings)
+console.log(greetings);
 
 // number type 
 
